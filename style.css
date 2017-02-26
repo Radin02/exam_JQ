@@ -1,0 +1,71 @@
+
+
+#reset {
+  float: left;
+}
+
+#submit {
+  float: right;
+  
+}
+
+.signup {
+  text-align: center;
+  height: 500px;
+  width: 600px;
+  top: 50px;
+  
+ left: 50%;
+border: 2px solid grey;
+}
+
+.header {
+  text-align: center;
+  left: 50%;
+border: 2px solid grey;
+}
+
+.user_profile ul{
+list-style: none;
+}
+
+.user_profile ul li{
+
+}
+
+.login {
+  text-align: center;
+  width: 50%;
+  height: 40px;
+  
+  margin-left: 140px;
+
+
+}
+
+
+.profile_page {
+
+  width: 100%;
+  height: 800px;
+  background-color: orange;
+}
+
+.limit_input {
+  left: 50%;
+  text-align: center;
+}
+
+#textarea{
+background-color: orange;
+}
+
+.profile_page h1{
+  text-align: center;
+}
+
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
